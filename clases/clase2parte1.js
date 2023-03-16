@@ -9,7 +9,7 @@ if (resultado === true) {
 console.log(resultado)
 
 //Interactuando con el usuario desde la consola.
-let nombre = prompt('');
+let nombre = prompt('Ingrese su nombre');
 let edad = prompt('Ingrese su edad');
 document.write('el nombre del usuario es: ' + nombre)
 document.write('<br>La edad del usuario es: ' + edad)

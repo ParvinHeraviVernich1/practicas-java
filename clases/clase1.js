@@ -4,7 +4,7 @@ edad = 12
 let peso = 20
 
 console.log(edad)
-console.log(peso)
+console.log(kilos)
 
 //Ejercicio 3: Otro tipo de dato
 let saludo = "Hola"
